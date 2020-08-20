@@ -1,0 +1,21 @@
+body {
+    margin: 40px;
+  }
+
+
+
+.header{
+    background-color: black;
+    color: white;
+    height: 3rem;
+}
+
+.header-text{
+    
+    margin-left: 20px;
+}
+
+.card{
+    background-color: #FBFCFC;
+    margin: 10px;
+}
