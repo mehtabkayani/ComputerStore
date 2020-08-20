@@ -1,7 +1,7 @@
 class Person {
     constructor() {
         this.name = 'John Banker'
-        this.balance = 500
+        this.balance = 5000
         this.pay = 0
         this.hasLoan = false
 
